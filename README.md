@@ -6,9 +6,9 @@
 
 ## 4) Finally, the best model is saved and used in a command-line interface argument to predict the artist with user given lyrics
 
-# Worldcloud of Pink-Floyd
+## Worldcloud of Pink-Floyd
 
-![](Worldcloud_Floyd.png)
+![](Wordcloud_Floyd.png)
 
 ![](Worldcloud_Floyd1.png)
 
