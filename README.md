@@ -8,7 +8,7 @@
 
 ## Worldcloud of Pink-Floyd
 
-![](./Worldcloud_iamges/Wordcloud_Floyd.png)
+![](Wordcloud_Floyd.png)
 
 ![](Worldcloud_Floyd1.png)
 
