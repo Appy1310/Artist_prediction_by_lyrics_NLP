@@ -1,3 +1,5 @@
+![Format python code](https://github.com/Appy1310/Artist_prediction_by_lyrics_NLP/workflows/Format%20python%20code/badge.svg)
+
 ## 1) First collection of lyrics of The-Beatles, Pink-Flyod, Justin-Bieber and Taylor-Swift via Web-scrapping
 
 ## 2) Use of different Machine learning algorithms to predict the name of Artist based on their Lyrics
